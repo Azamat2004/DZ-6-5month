@@ -1,0 +1,65 @@
+.content-box {
+    background-color: rgb(20, 227, 242);
+    margin-top: 10px;
+}
+
+
+
+.icon {
+    margin-left: 87%;
+    transform: translateY(-20px);
+    color: rgb(255, 81, 0);
+}
+
+
+
+.btn {
+    margin-left: 89%;
+    transform: translateY(-40px);
+    background-color: rgb(255, 0, 0); 
+}
+
+
+
+tr {
+    text-align: left;
+}
+
+table{
+    width: 95%;
+    margin-left: 10%;
+}
+
+
+
+.content {
+    width: 100%;
+    height: 58.5px;
+}
+
+
+img {
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+
+
+.input-block {
+    display: flex;
+}
+
+
+
+.first-input {
+    transform: translateX(-620%);
+}
+
+.second-input {
+    transform: translateX(-1210%);
+}
+
+.thrid-input {
+    transform: translateX(-1770%);    
+}
